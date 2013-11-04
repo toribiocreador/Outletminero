@@ -1,0 +1,264 @@
+[27-Jun-2012 13:58:18] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:19] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:20] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:20] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:21] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:23] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:23] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:25] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 13:58:27] PHP Parse error:  syntax error, unexpected ';' in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:36:29] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 40
+[27-Jun-2012 14:36:33] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 40
+[27-Jun-2012 14:36:38] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 40
+[27-Jun-2012 14:37:30] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:37:32] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:38:04] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:38:05] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:38:07] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:41:56] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:41:58] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:42:58] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:43:01] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:43:45] PHP Fatal error:  Function name must be a string in /home/outminer/public_html/class/RSSFeed.php on line 39
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:49:45] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:01] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:50:25] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 38
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:52:34] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Jun-2012 14:54:36] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/outminer/public_html/class/RSSFeed.php on line 35
+[27-Aug-2012 15:32:58] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:32:58] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:32:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:33:05] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:33:05] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:33:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:37:28] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:37:28] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:37:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:37:59] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:37:59] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:37:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:38:52] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:38:52] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:38:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:45:29] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:45:29] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:45:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:45:31] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:45:31] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:45:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:45:39] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:45:39] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:45:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:48:27] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:48:27] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:48:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:48:29] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:48:29] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:48:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:53:33] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:53:33] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:53:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[27-Aug-2012 15:53:34] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[27-Aug-2012 15:53:34] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[27-Aug-2012 15:53:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:52:03] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:52:03] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:52:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:52:16] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:52:16] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:52:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:53:21] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:53:21] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:53:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:54:35] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:54:35] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:54:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:54:41] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:54:41] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:54:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:56:44] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:56:44] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:56:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:56:46] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:56:46] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:56:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 13:56:50] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 13:56:50] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 13:56:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:08:47] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:08:47] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:08:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:32:25] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:32:25] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:32:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:32:27] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:32:27] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:32:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:33:45] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:33:45] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:33:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:43:07] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:43:07] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:43:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:43:15] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:43:15] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:43:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:51:34] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:51:34] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:51:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[28-Aug-2012 15:56:03] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[28-Aug-2012 15:56:03] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[28-Aug-2012 15:56:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:35:35] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:35:35] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:35:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:35:47] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:35:47] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:35:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:37:25] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:37:25] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:37:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:37:26] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:37:26] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:37:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:37:32] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:37:32] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:37:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:38:15] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:38:15] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:38:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:38:20] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:38:20] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:38:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:17) in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 15:38:47] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:38:47] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:51:53] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:51:53] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:56:11] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:56:11] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:56:51] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:56:51] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 15:56:52] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 17
+[30-Aug-2012 15:56:52] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 20
+[30-Aug-2012 16:01:10] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 19
+[30-Aug-2012 16:01:10] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 16:01:49] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 19
+[30-Aug-2012 16:01:49] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 16:01:51] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 19
+[30-Aug-2012 16:01:51] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 16:02:06] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 19
+[30-Aug-2012 16:02:06] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 16:02:08] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 19
+[30-Aug-2012 16:02:08] PHP Warning:  imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Could not find/open font in /home/outminer/public_html/class/random.php on line 22
+[30-Aug-2012 16:20:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:9) in /home/outminer/public_html/class/random.php on line 34
+[30-Aug-2012 16:20:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:9) in /home/outminer/public_html/class/random.php on line 34
+[30-Aug-2012 16:21:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/outminer/public_html/class/random.php:9) in /home/outminer/public_html/class/random.php on line 34

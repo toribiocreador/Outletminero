@@ -1,0 +1,49 @@
+@charset "iso-8859-2";
+/* CSS Document */
+
+.linkSk A{
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 11px;
+	color: #999;
+}
+.linkSk A:hover {
+	text-decoration: underline;
+	color: #900;
+}
+
+.linkMenu A{
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 11px;
+	color: #003366;
+	font-weight: bold;
+}
+.linkMenu A:hover {
+	text-decoration: underline;
+	color: #F90;
+}
+
+.linkNot A{
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 14px;
+	color: #900;
+	font-weight: bold;
+}
+.linkNot A:hover {
+	text-decoration: underline;
+	color: #090;
+}
+
+.linkCont a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#069;
+	text-decoration:none;
+	font-weight:bold;
+}
+.linkCont a:hover{
+	color:#093;
+	text-decoration:underline;
+}

@@ -1,0 +1,1224 @@
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#f5f5f5">
+    <tbody>
+        <tr>
+            <td>
+            <p><a name="Home"><img width="20" vspace="0" hspace="0" height="20" border="0" align="top" alt="" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Barra%20Gris%20F5F5F5.png" /></a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td bgcolor="#f5f5f5">
+                        <div align="center">
+                        <table width="800" cellspacing="0" cellpadding="0" border="0" bgcolor="#f5f5f5" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                            <tbody>
+                                <tr>
+                                    <td bgcolor="#f5f5f5" style="text-align: center;"><a href="http://www.honeywellsafety.com/Americas/Home.aspx?LangType=21514" target="_blank"><img width="800" vspace="0" hspace="0" height="106" border="0" align="middle" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Headers_simples_latinoamerica(1).jpg" alt="HONEYWELL - Honeywell Safety Products - Latinoam&eacute;rica - NEWSLETTER" /></a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="808" height="2790" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tbody>
+                    <tr>
+                        <td bgcolor="#f5f5f5">
+                        <div align="center">
+                        <table width="800" height="20" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td width="800" colspan="5" style="text-align: center;"><span style="font-size: 2px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span></td>
+                                </tr>
+                                <tr>
+                                    <td width="15" bgcolor="f5f5f5"><span style="font-size: 16px;"><span style="font-family: Arial;"> <br />
+                                    </span></span></td>
+                                    <td width="770" bgcolor="f5f5f5" bordercolor="ebebeb" colspan="3">&nbsp;<span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;">Website &gt; &nbsp; &nbsp;  <a href="http://www.honeywellsafety.com/Americas/Home.aspx?LangType=21514" target="_blank" style="text-decoration:none"><span style="color: rgb(96, 96, 96);">INICIO</span></a> &nbsp; </span></span></span><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="color: rgb(192, 192, 192);">|</span></span></span></span>&nbsp;   <a href="http://www.honeywellsafety.com/Americas/Product_Catalog.aspx?LangType=21514" target="_blank" style="text-decoration:none"><span style="color: rgb(96, 96, 96);">CAT&Aacute;LOGO DE PRODUCTOS</span></a> &nbsp; </span></span></span><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="color: rgb(192, 192, 192);">|</span></span></span></span> &nbsp;   <a href="http://www.honeywellsafety.com/Americas/Formaci%F3n___Apoyo.aspx" target="_blank" style="text-decoration:none"><span style="color: rgb(96, 96, 96);">FORMACI&Oacute;N&nbsp;&amp; APOYO</span></a> &nbsp; </span></span></span><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="color: rgb(192, 192, 192);">|</span></span></span></span> &nbsp;  <a style="text-decoration:none" href="http://honeywell.com/About/Pages/our-company.aspx" target="_blank"><span style="color: rgb(96, 96, 96);">EL</span></a></span></span><span style="font-size: 12px;"><span style="font-family: Arial;"><a href="http://honeywell.com/About/Pages/our-company.aspx" target="_blank" style="text-decoration:none"><span style="color: rgb(96, 96, 96);">&nbsp;GRUPO</span></a> &nbsp; </span></span></span><span style="font-size: 12px;"><span style="font-size: 12px;"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="color: rgb(192, 192, 192);">|</span></span></span></span> &nbsp;  <a href="http://www.honeywellsafety.com/Americas/Noticias_Y_Eventos.aspx" target="_blank" style="text-decoration:none"><span style="color: rgb(96, 96, 96);">NOTICIAS Y EVENTOS</span></a> &nbsp; </span></span></span><span style="font-size: 12px;"><span style="font-size: 12px;"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Arial;"><span style="color: rgb(192, 192, 192);">|</span></span></span></span> &nbsp; <a href="http://www.honeywellsafety.com/Americas/Contacts.aspx?LangType=21514" target="_blank" style="text-decoration:none"><span style="color: rgb(96, 96, 96);">CONTACTOS</span></a></span></span></span></td>
+                                    <td width="15" bgcolor="f5f5f5">&nbsp;<span style="font-size: 16px;">&nbsp; </span></td>
+                                </tr>
+                                <tr>
+                                    <td width="800" colspan="5"><span style="font-size: 2px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" height="537" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                            <tbody>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td width="800" colspan="6"><img width="800" vspace="0" hspace="0" height="4" border="0" align="middle" alt="" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Barra%20Blanca.png" /></td>
+                                </tr>
+                                <tr>
+                                    <td width="20">&nbsp;</td>
+                                    <td width="590" valign="top" align="left">
+                                    <p style="text-align: justify;"><strong><span style="font-family: Arial;"><span style="font-family: Arial;"><span style="color: rgb(51, 51, 153);">
+                                    <table width="590" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td width="590" valign="top" align="left" colspan="4">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" style="text-align: center;" colspan="4">
+                                                <table width="590" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="10" bgcolor="4ADBFF">&nbsp;</td>
+                                                            <td width="570" valign="top" bgcolor="4ADBFF" align="left"><span style="font-size: 28px;"><span style="font-size: 10px;"><span style="color: rgb(51, 51, 153);">&nbsp;&nbsp; &nbsp; </span></span><span style="font-family: Arial;"><span style="font-size: 28px;"><span style="font-family: Arial;"><span style="color: rgb(51, 51, 153);"><span style="font-size: 28px;"><span style="font-family: Arial;"><br />
+                                                            <span style="color: rgb(255, 255, 255);">Como mejorar la actitud de los trabajadores en relaci&oacute;n a la protecci&oacute;n auditiva</span><br />
+                                                            </span></span></span></span></span></span><span style="font-size: 8px;"><span style="font-family: Arial;"><span style="color: rgb(51, 51, 153);">&nbsp;</span><span style="font-size: 9px;"><span style="color: rgb(51, 51, 153);">&nbsp;&nbsp; </span></span></span></span></span></td>
+                                                            <td width="10" bgcolor="4ADBFF">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="590" style="text-align: center;" colspan="3"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="580" valign="top" align="left" colspan="2"><span style="font-size: 21px;"><span style="font-family: Arial;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="font-size: 23px;"><span style="font-family: Arial;"><span style="color: rgb(51, 51, 153);"><span style="font-size: 32px;"><strong><span style="font-size: 34px;"><span style="font-family: Arial;"><span style="color: rgb(51, 51, 153);"><span style="font-size: 23px;"><strong><img width="132" vspace="0" hspace="0" height="54" border="0" align="right" src="http://newsletter.hspbrasil.internetdinamica.com/uploadimages/image/Patrones%20HSP/Howard%20Leight%20150%20bl.png" alt="" /></strong></span></span></span></span></strong></span></span></span></span></span><span style="font-size: 18px;"><span lang="PT-BR">Un an&aacute;lisis del factor humano en la protecci&oacute;n auditiva y como generar cambios</span></span></span></span></span></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" align="left" colspan="4"><span style="font-size: 8px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="280" valign="top" align="center" rowspan="3"><img width="260" vspace="0" hspace="0" height="269" border="0" align="top" alt="" src="http://newsletter.hspbrasil.internetdinamica.com/uploadimages/image/Como%20melhorar%20a%20postura/HL%20Max(1).png" /></td>
+                                                <td width="10">&nbsp;</td>
+                                                <td width="300" valign="top" style="text-align: justify;"><span style="font-size: 12px;"><span style="font-family: Arial;">La exposici&oacute;n a ruidos peligrosos no es un problema reciente en el entorno de trabajo, y as&iacute; hay muchas posturas y h&aacute;bitos que est&aacute;n arraigados en los trabajadores. En los estudios preparados en 2002, el Instituto de Medicina del Trabajo del Reino Unido analiz&oacute; el factor humano en la protecci&oacute;n auditiva- la postura de los trabajadores, la percepci&oacute;n del riesgo y su comportamiento.</span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="10">&nbsp;</td>
+                                                <td width="300" valign="top" align="left">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="10">&nbsp;</td>
+                                                <td width="300" valign="top" style="text-align: justify;"><span style="font-size: 12px;"><span style="font-family: Arial;">Lo que descubrieron confirm&oacute; mucho de lo que ya se sab&iacute;a acerca de las pr&aacute;cticas de los trabajadores en relaci&oacute;n a la conservaci&oacute;n de la capacidad auditiva, pero tambi&eacute;n surgieron algunos resultados inesperados. Sobre todo, el an&aacute;lisis ofrece una serie de recomendaciones para cambiar la postura y el comportamiento preexistente de los trabajadores expuestos a entornos de trabajo ruidosos.</span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="280" valign="top" align="left">&nbsp;</td>
+                                                <td width="10">&nbsp;</td>
+                                                <td width="300" valign="top" align="left">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" bgcolor="f5f5f5" align="center" style="text-align: center;" colspan="3">
+                                                <table width="590" cellspacing="0" cellpadding="0" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="10" colspan="5" style="text-align: center;"><span style="font-size: 8px;"><span style="font-family: Arial;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </span></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="570" valign="top" align="left" colspan="3"><span style="color: rgb(128, 128, 128);"><strong><span style="font-size: 13px;"><span style="font-family: Arial;">Lea el art&iacute;culo completo y entienda el resultado de la invetigaci&oacute;n en relaci&oacute;n a:</span></span></strong></span></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="590" style="text-align: center;" colspan="5"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><strong><span style="color: rgb(192, 192, 192);"><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="color: rgb(0, 204, 255);"><span style="font-size: 10px;">&gt;</span></span></span></span></span></span></span></strong></td>
+                                                            <td width="530" valign="top" align="left"><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR" style="color: rgb(31, 73, 125);">La actitud de los empleados</span></span></span></strong></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><strong><span style="color: rgb(192, 192, 192);"><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="color: rgb(0, 204, 255);"><span style="font-size: 10px;">&gt;</span></span></span></span></span></span></span></strong></td>
+                                                            <td width="530" valign="top" align="left"><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR" style="color: rgb(31, 73, 125);">La actitud de los empleadores</span></span></span></strong></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><strong><span style="color: rgb(192, 192, 192);"><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="color: rgb(0, 204, 255);"><span style="font-size: 10px;">&gt;</span></span></span></span></span></span></span></strong></td>
+                                                            <td width="530" valign="top" align="left"><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR" style="color: rgb(31, 73, 125);">Razones de los trabajadores para no usar protectores auditivos</span></span></span></strong></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><strong><span style="color: rgb(192, 192, 192);"><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="color: rgb(0, 204, 255);"><span style="font-size: 10px;">&gt;</span></span></span></span></span></span></span></strong></td>
+                                                            <td width="530" valign="top" align="left"><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR" style="color: rgb(31, 73, 125);">Recomendaciones para el uso efectivo de los protectores auditivos</span></span></span></strong></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><strong><span style="color: rgb(192, 192, 192);"><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="color: rgb(0, 204, 255);"><span style="font-size: 10px;">&gt;</span></span></span></span></span></span></span></strong></td>
+                                                            <td width="530" valign="top" align="left"><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR" style="color: rgb(31, 73, 125);">Capacitaci&oacute;n y entrenamiento</span></span></span></strong></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><strong><span style="color: rgb(192, 192, 192);"><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="color: rgb(0, 204, 255);"><span style="font-size: 10px;">&gt;</span></span></span></span></span></span></span></strong></td>
+                                                            <td width="530" valign="top" align="left"><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR" style="color: rgb(31, 73, 125);">Recomendaci&oacute;n para una capacitaci&oacute;n eficiente</span></span></span></strong></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10" colspan="5" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10" colspan="5" style="text-align: center;">
+                                                            <table width="590" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td width="30" bgcolor="#0099ff" colspan="5" style="text-align: center;"><span style="font-size: 8px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td width="36" bgcolor="#0099ff" style="text-align: center;">&nbsp;</td>
+                                                                        <td width="334" bgcolor="#0099ff" style="text-align: left;"><span style="color: rgb(0, 51, 102);"><span style="font-size: 13px;"><span style="font-family: Arial;"><strong>Conozca m&aacute;s sobres estos resultados y entienda como realizar una capacitaci&oacute;n eficiente</strong></span></span></span><span style="font-size: 13px;"><span style="font-family: Arial;"><strong><br />
+                                                                        </strong></span></span></td>
+                                                                        <td bgcolor="#00ccff" style="text-align: center;" colspan="2">
+                                                                        <table width="190" height="42" cellspacing="0" cellpadding="0" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td bgcolor="#0099ff" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td bgcolor="#0099ff" style="text-align: center;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 128);"><span style="color: rgb(0, 51, 102);"><span style="font-family: Arial;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="font-family: Arial;"><span style="color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 0);"><span style="color: rgb(0, 255, 255);"><span style="font-family: Arial;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="font-family: Arial;"><span style="font-family: Arial;"><span style="font-family: Arial;"><span style="font-family: Arial;"><span style="font-family: Arial;"><span lang="ES-AR" style="line-height: 19px;"><span style="font-family: Arial;"><a style="text-decoration:none" target="_blank" href="http://www.honeywellsafety.com//LA/Training_and_Support/Como-mejorar-la-actitud-de-los-trabajadores-en-relacion-a-la-proteccion-auditiva.aspx"><span style="color: rgb(255, 255, 255);"><strong><span lang="ES-AR" style="line-height: 19px;">clic aqu&iacute;</span></strong></span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><strong><span style="color: rgb(238, 49, 36);"><span style="font-size: 14px;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="ES-AR" style="line-height: 19px;"><span style="font-family: Arial;"><a style="text-decoration:none" target="_blank" href="http://www.honeywellsafety.com/BR/Training_and_Support/Hearing__um_informe_com_base_num_estudo_recente_do_Instituto_de_Medicina_do_Trabalho_do_Reino_Unido.aspx"><span style="font-size: 13px;"><span lang="ES-AR" style="line-height: 19px;"><br />
+                                                                                    </span></span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td bgcolor="#0099ff" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        </td>
+                                                                        <td width="30" bgcolor="#0099ff" style="text-align: center;">&nbsp;</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td width="30" bgcolor="#0099ff" style="text-align: center;" colspan="5"><span style="font-size: 8px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" style="text-align: center;" colspan="3"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" bgcolor="ebebeb" align="center" style="text-align: center;" colspan="3">
+                                                <table width="590" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="10" colspan="5" style="text-align: center;"><span style="font-size: 8px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="570" valign="top" align="left" colspan="3"><strong><span style="color: rgb(128, 128, 128);"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR" style="color: rgb(31, 73, 125);">Lea tambi&eacute;n:</span></span></span></span></span></span></strong></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="590" style="text-align: center;" colspan="5"><span style="font-size: 4px;"><span style="font-family: Arial;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><span style="color: rgb(255, 102, 0);"><strong><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="font-size: 10px;">&gt;</span></span></span></span></span></strong></span></td>
+                                                            <td width="530" valign="top" align="left"><em><span style="color: rgb(128, 128, 128);"><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="color: rgb(255, 255, 255);"><strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="color: rgb(255, 255, 0);"><span style="font-size: 14px;"><span style="color: rgb(255, 255, 0);"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="color: rgb(59, 135, 222);"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="ES-AR" style="line-height: 19px;"><span style="font-family: Arial;"><a style="text-decoration:none" target="_blank" href="http://www.honeywellsafety.com/LA/Training_and_Support/Combatiendo_objeciones_comunes_al_uso_de_protectores_auditivos.aspx"><span style="color: rgb(128, 128, 128);"><em><span style="font-size: 13px;"><span lang="ES-AR" style="line-height: 19px;">Combatiendo Objeciones Comunes al Uso de Protecci&oacute;n Auditiva</span></span></em></span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></span></span></span>&nbsp;&nbsp; <br />
+                                                            </span></span></span></strong></span></em></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><span style="color: rgb(255, 102, 0);"><strong><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="font-size: 10px;">&gt;</span></span></span></span></span></strong></span></td>
+                                                            <td width="530" valign="top" align="left"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="color: rgb(255, 255, 255);"><strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="color: rgb(255, 255, 0);"><span style="font-size: 14px;"><span style="color: rgb(255, 255, 0);"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="color: rgb(59, 135, 222);"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="ES-AR" style="line-height: 19px;"><span style="font-family: Arial;"><a style="text-decoration:none" target="_blank" href="http://www.honeywellsafety.com/LA/Formaci%C3%B3n___Apoyo.aspx"><span style="color: rgb(128, 128, 128);"><em><span style="font-size: 13px;"><span lang="ES-AR" style="line-height: 19px;">Las 4 C de la Conservaci&oacute;n Auditiva</span></span></em></span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></span></span></span></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td width="20">&nbsp;</td>
+                                                            <td width="20" valign="top" align="center" style="text-align: center;"><span style="color: rgb(255, 102, 0);"><strong><span lang="PT"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="PT"><span style="font-size: 10px;">&gt;</span></span></span></span></span></strong></span></td>
+                                                            <td width="530" valign="top" align="left"><span style="color: rgb(128, 128, 128);"><em><strong><span style="font-size: 13px;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="color: rgb(255, 255, 255);"><strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="color: rgb(255, 255, 0);"><span style="font-size: 14px;"><span style="color: rgb(255, 255, 0);"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="color: rgb(59, 135, 222);"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="ES-AR" style="line-height: 19px;"><span style="font-family: Arial;"><a style="text-decoration:none" target="_blank" href="http://www.honeywellsafety.com/LA/Formaci%C3%B3n___Apoyo.aspx"><span style="color: rgb(128, 128, 128);"><em><span style="font-size: 13px;"><span lang="ES-AR" style="line-height: 19px;">La P&eacute;rdida de la Audici&oacute;n inducida por Ruido se puede Prevenir en un 100 %</span></span></em></span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></span></span></span>&nbsp;&nbsp; <br />
+                                                            </span></span></span></strong></em></span></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="10" colspan="5" style="text-align: center;"><span style="font-size: 8px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" style="text-align: center;" colspan="3"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" style="text-align: center;" colspan="3">
+                                                <table width="590" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td bgcolor="003366">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td bgcolor="003366" style="text-align: center;"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="color: rgb(255, 255, 255);"><strong>Honeywell ofrece una l&iacute;nea completa de protectores auditivos, para conocerla <br />
+                                                            haga </strong></span></span></span><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 0);"><strong><span style="color: rgb(0, 255, 255);"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span lang="PT-BR"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 14px;"><span style="font-family: Arial;"><span style="font-size: 12px;"><span style="font-family: Arial;"><span lang="ES-AR" style="line-height: 19px;"><span style="font-family: Arial;"><a style="text-decoration:none" target="_blank" href="http://www.honeywellsafety.com/LA/Product_Catalog/Auditiva.aspx"><span style="color: rgb(74, 219, 255);"><span style="font-size: 13px;"><span lang="ES-AR" style="line-height: 19px;">clic aqu&iacute;</span></span></span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>.</strong></span></span></span></span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td bgcolor="003366">&nbsp;</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="590" valign="top" style="text-align: center;" colspan="3">&nbsp;</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </span></span></span></strong></p>
+                                    <p><strong>&nbsp;</strong></p>
+                                    <br />
+                                    &nbsp;
+                                    <p>&nbsp;</p>
+                                    </td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="150" valign="top" align="center">
+                                    <table width="150" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td height="8" style="text-align: center;"><span style="font-size: 9px;"><span style="font-family: Arial;">&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td height="8" style="text-align: center;"><a target="_blank" href="http://honeywell-timba.force.com/timbasurveys__survey?id=a0WF0000008PPqMMAW"><img width="150" vspace="0" hspace="0" height="100" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Registrate%20150.png" alt="" /></a></td>
+                                            </tr>
+                                            <tr>
+                                                <td height="8" style="text-align: center;"><span style="color: rgb(245, 245, 245);"><span style="font-size: 2px;"><span style="font-family: Arial;">A</span></span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(245, 245, 245);"><span style="font-size: 2px;"><span style="font-family: Arial;">A</span></span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp; </span></span><br />
+                                                <a href="#Arrow_Cultura_de_Seguridad" style="text-decoration:none"><span style="background-color: rgb(245, 245, 245);"><span style="color: rgb(238, 49, 36);"><span style="font-size: 12px;"><strong><span style="font-family: Arial;">Cultura de Seguridad</span></strong></span></span></span></a><br />
+                                                <strong><span style="font-size: 4px;"><span style="font-family: Arial;">----------------------------------------------------------------------------------------------------------------------------------------</span></span></strong></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(192, 192, 192);"><span style="font-size: 4px;"><span style="font-family: Arial;">------------------------------------------------------------------------------------------------------------------------------------------</span></span></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="150" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="font-size: 4px;">&nbsp;&nbsp;&nbsp;&nbsp; </span><br />
+                                                </span></span></span></strong><span style="color: rgb(238, 49, 36);"><span style="font-size: 12px;"><span style="font-family: Arial;"><a href="http://www.honeywellsafety.com/Americas/Home.aspx?LangType=21514" style="text-decoration:none" target="_blank"><strong><span style="background-color: rgb(245, 245, 245);"><span style="color: rgb(238, 49, 36);"><span style="font-size: 12px;"><span style="font-family: Arial;">honeywellsafety.com</span></span></span></span></strong></a></span></span></span><br />
+                                                <span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(192, 192, 192);"><span style="font-size: 4px;"><span style="font-family: Arial;">-----------------------------------------------------------------------------------------------------------------------------------------</span></span></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="150" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="font-size: 4px;">&nbsp;&nbsp;&nbsp; </span><br />
+                                                </span></span></span></strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 13px;"><span style="font-family: Arial;"><span style="color: rgb(255, 255, 255);"><a href="#Arrow_Nuestras_Marcas" style="text-decoration:none"><strong><span style="color: rgb(128, 128, 128);"><span style="font-size: 13px;"><span style="font-size: 12px;"><span style="font-family: Arial;">Nuestras Marcas</span></span></span></span></strong></a></span></span></span></span><strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 13px;"><span style="font-family: Arial;"><strong><span style="color: rgb(255, 255, 255);"><a href="#Arrow_Nuestras_Marcas" style="text-decoration:none"><span style="color: rgb(128, 128, 128);"><span style="font-size: 13px;"><span style="font-size: 12px;"><span style="font-family: Arial;"><br />
+                                                </span></span></span></span></a></span></strong>                                     </span><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp; </span></span></span></span></strong></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(192, 192, 192);"><span style="font-size: 4px;"><span style="font-family: Arial;">-----------------------------------------------------------------------------------------------------------------------------------------</span></span></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="150" height="38" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span><br />
+                                                <strong><span style="color: rgb(255, 255, 255);"><span style="font-size: 13px;"><span style="font-family: Arial;"><a target="_blank" href="http://www.honeywellsafety.com/Americas/Formaci%C3%B3n___Apoyo.aspx" style="text-decoration:none"><span style="color: rgb(128, 128, 128);"><span style="font-size: 12px;">Art&iacute;culos T&eacute;cnicos</span></span></a></span></span></span></strong><br />
+                                                <span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(192, 192, 192);"><span style="font-size: 4px;"><span style="font-family: Arial;">-----------------------------------------------------------------------------------------------------------------------------------------</span></span></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="150" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span><br />
+                                                <a href="#Arrow_Catalogos_y_Folletos" style="text-decoration:none"><span style="color: rgb(128, 128, 128);"><span style="font-size: 12px;"><strong><span style="font-family: Arial;">Cat&aacute;logos</span></strong></span></span></a><br />
+                                                <span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(192, 192, 192);"><span style="font-size: 4px;"><span style="font-family: Arial;">-----------------------------------------------------------------------------------------------------------------------------------------</span></span></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="150" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span><br />
+                                                <a href="[FORWARDURL]" style="text-decoration:none" target="_blank"><span style="color: rgb(128, 128, 128);"><span style="font-size: 12px;"><strong><span style="font-family: Arial;">Enviar a un Amigo</span></strong></span></span></a><br />
+                                                <span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(192, 192, 192);"><span style="font-size: 4px;"><span style="font-family: Arial;">-----------------------------------------------------------------------------------------------------------------------------------------</span></span></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="150" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span><br />
+                                                <a style="text-decoration:none" href="#Arrow_First_Responder"><span style="color: rgb(51, 51, 51);"><span style="font-size: 11px;"><strong><span style="font-family: Arial;">First<span style="font-size: 13px;"> </span>Responder<span style="font-size: 12px;"> </span>Products</span></strong></span></span></a><br />
+                                                <span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span></td>
+                                            </tr>
+                                            <tr>
+                                                <td bgcolor="f5f5f5" style="text-align: center;"><span style="color: rgb(245, 245, 245);"><span style="font-size: 2px;"><span style="font-family: Arial;">Z</span></span></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="150" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td style="text-align: center;">
+                                                <p><span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span><br />
+                                                <a style="text-decoration:none" href="#Arrow_Cultura_de_Seguridad"><span style="color: rgb(238, 49, 36);"><span style="font-size: 12px;"><strong><span style="font-family: Arial;">+ Informaci&oacute;n<br />
+                                                ver abajo</span></strong></span></span></a><br />
+                                                <span style="font-size: 4px;"><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp; </span></span></p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                    <td width="20">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="20">&nbsp;</td>
+                                    <td width="590" valign="top" align="left">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="20">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" height="40" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td width="800" height="40" style="text-align: center;"><strong><span style="font-size: 9px;"><span style="font-family: Arial;"><font color="#808080"><span style="font-size: 8px;">&nbsp;&nbsp;&nbsp;&nbsp; </span><br />
+                                    Si no desea recibir nuestro Newsletter por favor haga&nbsp;</font></span></span></strong><a href="http://newsletter.sperian.internetdinamica.com/?p=unsubscribe" target="_blank" style="text-decoration:none"><strong><span style="font-size: 9px;"><span style="text-decoration:none; font-family: Arial;"><font color="#0000ff">clic   aqu&iacute;</font></span></span></strong></a><br />
+                                    <span style="font-size: 8px;"><span style="font-family: Arial;">&nbsp;&nbsp; </span></span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td width="400">
+                                    <p><a name="Arrow_Nuestras_Marcas"><img width="20" vspace="0" hspace="0" height="20" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Barra%20Gris%20F5F5F5.png" alt="" /></a></p>
+                                    </td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="400"><a href="#Home"><img width="30" vspace="0" hspace="0" height="29" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/BackArrow2.png" alt="" /></a></td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" height="313" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                            <tbody>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100" style="text-align: left;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10" style="text-align: center;">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="210" style="text-align: left;" colspan="3"><span style="color: rgb(128, 128, 128);"><span style="font-size: 15px;"><span style="font-family: Arial;">Nuestras Marcas<br />
+                                    </span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="8">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="210" colspan="3" style="text-align: right;"><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">Accesos a Websites &nbsp;&nbsp;&nbsp;</span></em></span></span></td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10" style="text-align: center;">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100"><a target="_blank" href="http://www.honeywellsafety.com/Americas/Home.aspx?LangType=21514"><img width="100" vspace="0" hspace="0" height="47" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Honeywell%20150.png" alt="Honeywell - Acceso a Website" /></a></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100"><a target="_blank" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_Ocular_y_Facial.aspx"><img width="100" vspace="0" hspace="0" height="46" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Uvex%20150.png" alt="Uvex by Honeywell - Acceso a Website" /></a></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100"><a target="_blank" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Auditiva.aspx"><img width="100" vspace="0" hspace="0" height="46" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Howard%20Leight%20150.png" alt="Howard Leight by Honeywell - Acceso a Website" /></a></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100"><img width="100" vspace="0" hspace="0" height="47" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/North%20150.png" alt="North by Honeywell - Acceso a Website" /></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100"><a target="_blank" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx"><img width="100" vspace="0" hspace="0" height="47" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Miller%20150.png" alt="Miller by Honeywell - Acceso a Website" /></a></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100"><a href="http://fibre-metal.com/" target="_blank"><img width="100" vspace="0" hspace="0" height="47" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Fibre%20Metal%20150.png" alt="Fibre-Metal by Honeywell - Acceso a Website" /></a></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100"><a href="http://www.servusproducts.com/Pages/default.aspx" target="_blank"><img width="100" vspace="0" hspace="0" height="47" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/Servus%20150.png" alt="Servus by Honeywell - Acceso a Website" /></a></td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10" style="text-align: center;">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;<span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">Prot. Personal<br />
+                                    </span></strong></span></span></span></span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_Ocular_y_Facial.aspx" target="_blank"><strong><span style="color: rgb(128, 128, 128);">Ocular y Facial</span></strong></a></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">                                     </span></em></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Auditiva.aspx" target="_blank"><strong><span style="color: rgb(128, 128, 128);">Auditiva</span></strong></a></span></span></span></span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">Prot. Personal</span></strong></span></span></span></span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx" target="_blank"><strong><span style="color: rgb(128, 128, 128);">Altura</span></strong></a></span></span></span></span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://fibre-metal.com/" target="_blank"><strong><span style="color: rgb(128, 128, 128);">Facial y Cabeza</span></strong></a></span></span></span></span></span></span></td>
+                                    <td width="10" style="text-align: center;">&nbsp;</td>
+                                    <td width="100" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.servusproducts.com/Pages/default.aspx" target="_blank"><strong><span style="color: rgb(128, 128, 128);">Calzado</span></strong></a></span></span></span></span></span></span></td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10" style="text-align: center;">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100" valign="top" align="center" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Sperian_Respiraci%C3%B3n.aspx" target="_blank"><span style="color: rgb(128, 128, 128);">Respiratoria</span></a></span></span></span><br />
+                                    <a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_Ocular_y_Facial.aspx?tid=867&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Lavado de Ojos</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Guantes.aspx?tid=1111&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Brazos</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Guantes.aspx" target="_blank"><span style="color: rgb(128, 128, 128);">Manos</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Ropa_de_protecci%C3%B3n.aspx" target="_blank"><span style="color: rgb(128, 128, 128);">Ropa</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><br />
+                                    </span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" valign="top" align="center"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_Ocular_y_Facial.aspx?tid=875&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Lentes</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_Ocular_y_Facial.aspx?tid=883&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Protectores Faciales</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_Ocular_y_Facial.aspx?tid=886&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Gafas / Antiparras</span></a></span></span></span></span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" valign="top" align="center"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Auditiva.aspx?tid=1120&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Orejeras</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Auditiva.aspx?tid=1125&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Tapones</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Auditiva.aspx?tid=1131&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">QuietDose<br />
+                                    </span></a></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Auditiva.aspx?tid=1132&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">VeriPro</span></a></span></span></span></span></span></span></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" valign="top" align="center" style="text-align: center;">
+                                    <p><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);">Ocular<br />
+                                    Facial<br />
+                                    Cabeza<br />
+                                    Respiratoria<br />
+                                    </span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Guantes.aspx?tid=1111&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Brazos</span></a><br />
+                                    </span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Guantes.aspx" target="_blank"><span style="color: rgb(128, 128, 128);">Manos</span></a><br />
+                                    </span></span></span>                                     Primeros Auxilios<br />
+                                    </span></span></span></p>
+                                    </td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" valign="top" align="center"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=953&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Arneses</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=928&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Cinturones</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=971&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Conectores Anclaje<br />
+                                    </span></a></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=922&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Ascenso/Descenso</span></a><br />
+                                    </span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=959&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Eslingas/Col.Amarre</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=933&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Espacio Confinado</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=944&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Autorretr&aacute;ctiles<br />
+                                    </span></a></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=962&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">Sist. de Anclaje<br />
+                                    </span></a></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=948&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="color: rgb(128, 128, 128);">KIts<br />
+                                    </span></a></span></span></span></span></span></span></span></span></span></span></span></span><a style="text-decoration:none" href="http://www.honeywellsafety.com/Americas/Product_Catalog/Protecci%C3%B3n_antica%C3%ADdas.aspx?tid=914&amp;bid=0&amp;hid=0&amp;iid=0" target="_blank"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);">Accesorios</span></span></span></a></td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" valign="top" align="center">
+                                    <p><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://fibre-metal.com/face-protection/" target="_blank"><span style="color: rgb(128, 128, 128);">Face</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://fibre-metal.com/head-protection/" target="_blank"><span style="color: rgb(128, 128, 128);">Head</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://fibre-metal.com/welding-protection/" target="_blank"><span style="color: rgb(128, 128, 128);">Welding<br />
+                                    </span></a></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://fibre-metal.com/products/combination-head-face-protection/" target="_blank"><span style="color: rgb(128, 128, 128);">Combination</span></a></span></span></span></span></span></span><em><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><br />
+                                    </span></span></span></em></p>
+                                    </td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" valign="top" align="center">
+                                    <p><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.servusproducts.com/Pages/Category.aspx?cat=HLS-SERVUS&amp;category=Non-Insulated" target="_blank"><span style="color: rgb(128, 128, 128);">Non-insulated</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.servusproducts.com/Pages/Category.aspx?cat=HLS-SERVUS&amp;category=Insulated" target="_blank"><span style="color: rgb(128, 128, 128);">Insulated</span></a><span style="color: rgb(128, 128, 128);"><br />
+                                    </span><a style="text-decoration:none" href="http://www.servusproducts.com/Pages/Category.aspx?cat=HLS-SERVUS&amp;category=Overshoes" target="_blank"><span style="color: rgb(128, 128, 128);">Overshoes<br />
+                                    </span></a></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.servusproducts.com/Pages/Category.aspx?cat=HLS-SERVUS&amp;category=Accessories" target="_blank"><span style="color: rgb(128, 128, 128);">Accessories</span></a></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.servusproducts.com/Pages/Category.aspx?cat=HLS-SERVUS&amp;category=Accessories" target="_blank"><span style="color: rgb(128, 128, 128);"><em><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><br />
+                                    </span></span></span></em></span></a></span></span></span></span></span></span></p>
+                                    </td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100" style="text-align: center;">&nbsp;</td>
+                                    <td width="10">&nbsp;</td>
+                                    <td width="100">&nbsp;</td>
+                                    <td width="15">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td width="400" valign="middle" align="left">
+                                    <p><a name="Arrow_Catalogos_y_Folletos"><img width="20" vspace="0" hspace="0" height="20" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Barra%20Gris%20F5F5F5.png" alt="" /></a></p>
+                                    </td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="400" valign="middle" align="left"><a href="#Home"><img width="30" vspace="0" hspace="0" height="29" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/BackArrow2.png" alt="" /></a></td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                            <tbody>
+                                <tr>
+                                    <td width="15">&nbsp;</td>
+                                    <td width="150" style="text-align: left;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: left;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 15px;"><span style="font-family: Arial;">&nbsp;Cat&aacute;logos &amp; Folletos<br />
+                                    </span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: right;"><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">&nbsp;&nbsp;                          </span></em></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;<img width="28" vspace="0" hspace="0" height="18" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Bandera%20ARG%20%202.png" alt="" /></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">M&aacute;s Vendidos 2012</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">Nuestras Marcas</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;<span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">Protecci&oacute;n en Altura</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(0, 153, 255);">(solo para Argentina)</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" valign="top" align="center">
+                                    <p style="text-align: center;"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/TopSellersESP.pdf" target="_blank"><img width="114" vspace="0" hspace="0" height="148" border="0" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/TSenESP120.png" alt="" /></a></p>
+                                    </td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150"><span style="color: rgb(51, 51, 153);"><span style="font-size: 11px;"><span style="font-family: Arial;"><strong><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">&lt;&lt; Descarg</span></em></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">a de Cat&aacute;logo<br />
+                                    <br />
+                                    </span></em></span></span>Consulte<br />
+                                    con nuestros<br />
+                                    Distribuidores <br />
+                                    la disponibilidad de<br />
+                                    los productos en su pa&iacute;s</strong></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" valign="top" align="center"><a target="_blank" href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/HSPNuestrasMarcas/NuestrasMarcas.pdf"><img width="106" vspace="0" hspace="0" height="141" border="0" alt="Nuestras Marcas - Descarga de Folleto" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/TapaBrands3.png" /></a></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" valign="top" align="center">&nbsp;<a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/ARGCatalogoFP/CatalogoAlturaARG.pdf"><img width="100" vspace="0" hspace="0" height="141" border="0" align="middle" alt="" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/CatFPARG/150%20Mini%20Cat%20FP%20ARG.png" /></a></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="307" style="text-align: left;" colspan="3"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secciones del Cat&aacute;logo M&aacute;s Vendidos 2012</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="778" colspan="9" style="text-align: center;">
+                                    <table width="778" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tbody>
+                                            <tr>
+                                                <td width="518" rowspan="5">
+                                                <table width="518" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="242"><a target="_blank" href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/01 Uvex.pdf"><img width="169" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Protecci&oacute;n para Ojos y Cara - Uvex" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/A1ws.jpg" /></a></td>
+                                                            <td width="271"><a target="_blank" href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/06 HONEwash.pdf"><img width="190" vspace="0" hspace="0" height="47" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/A2ws.jpg" alt="Descarga de PDF - Lavado de Ojos de Emergencia" /></a></td>
+                                                            <td width="159"><a target="_blank" href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/10 HONCloth.pdf"><img width="159" vspace="0" hspace="0" height="47" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/A3ws.jpg" alt="Descarga de PDF - Ropa de Seguridad" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="242"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/02 NorthEF.pdf" target="_blank"><img width="169" vspace="0" hspace="0" height="46" border="0" align="left" alt="Descarga de PDF - Protecci&oacute;n para Ojos y Cara - North" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/B1ws.jpg" /></a></td>
+                                                            <td width="271"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/07 Hearing.pdf" target="_blank"><img width="190" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Protecci&oacute;n Auditiva - Howard Leight" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/B2ws.jpg" /></a></td>
+                                                            <td width="227"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/11 Servus.pdf" target="_blank"><img width="159" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Calzado de Seguridad - Servus" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/B3ws.jpg" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="242"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/03 NorthHead.pdf" target="_blank"><img width="169" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Protecci&oacute;n para la Cabeza - North" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/C1ws.jpg" /></a></td>
+                                                            <td width="271"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/08 Fall.pdf" target="_blank"><img width="190" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Proteccon Antica&iacute;das - Miller" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/C2ws.jpg" /></a></td>
+                                                            <td width="227"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/12 NorthFAid.pdf" target="_blank"><img width="159" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Primeros Auxilios - North" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/C3ws.jpg" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="242"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/04 F-MHead.pdf" target="_blank"><img width="169" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Protecci&oacute;n para la Cabeza - Fibre-Metal" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/D1ws.jpg" /></a></td>
+                                                            <td width="271"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/09 NorthResp.pdf" target="_blank"><img width="190" vspace="0" hspace="0" height="47" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/D2ws.jpg" alt="Descarga de PDF - Protecci&oacute;n Respiratoria - Honeywell - North" /></a></td>
+                                                            <td width="227"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/13 HONLOTO.pdf" target="_blank"><img width="159" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Bloqueo Etiquetado - Honeywell" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/D3ws.jpg" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="242"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/05 F-MWeld.pdf" target="_blank"><img width="169" vspace="0" hspace="0" height="47" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/E1ws.jpg" alt="Descarga de PDF - Protecci&oacute;n para Soldadura - Fibre-Metal" /></a></td>
+                                                            <td width="271"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/10 HONHand.pdf" target="_blank"><img width="190" vspace="0" hspace="0" height="47" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/E2ws.jpg" alt="Descarga de PDF - Protecci&oacute;n de Brazos y Manos - Honeywell - North " /></a></td>
+                                                            <td width="227"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/15 H-D.pdf" target="_blank"><img width="159" vspace="0" hspace="0" height="47" border="0" align="left" alt="Descarga de PDF - Protecci&oacute;n para Ojos y Cabeza - Harley-Davidson" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/MasVendidos/E3ws.jpg" /></a></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                                <td width="5">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5">&nbsp;</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="464" colspan="5" style="text-align: left;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cat&aacute;logo de Protecci&oacute;n en Altura&nbsp; </span><span style="color: rgb(0, 153, 255);">(solo para Argentina) <br />
+                                    </span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);"><img width="26" vspace="0" hspace="0" height="16" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Bandera%20ARG%20%202.png" alt="" />&nbsp; Secciones &gt;<br />
+                                    </span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;<span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">Principios y Bases</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">Productos</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">Aplicaciones</span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;<span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);">HSP en Argentina</span></strong></span></span></span></span></span></span></td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><a target="_blank" href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/ARGCatalogoFP/CatARGPrincWeb.pdf"><img width="100" vspace="0" hspace="0" height="141" border="0" align="middle" alt="" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/CatFPARG/150%20Mini%20Principios.png" /></a></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><a target="_blank" href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/ARGCatalogoFP/CatARGProdWeb.pdf"><img width="100" vspace="0" hspace="0" height="141" border="0" align="middle" alt="" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/CatFPARG/150%20Mini%20Productos.png" /></a></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/ARGCatalogoFP/CatARGAplicWeb.pdf" target="_blank"><img width="100" vspace="0" hspace="0" height="141" border="0" align="middle" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/CatFPARG/150%20Mini%20Aplicaciones.png" alt="" /></a></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><a href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/ARGCatalogoFP/CatARGenArgWeb.pdf" target="_blank"><img width="100" vspace="0" hspace="0" height="141" border="0" align="middle" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/CatFPARG/150%20Mini%20HSP%20en%20ARg.png" alt="" /></a></td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="11">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td width="400">
+                                    <p><a name="Arrow_Cultura_de_Seguridad"><img width="20" vspace="0" hspace="0" height="20" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Barra%20Gris%20F5F5F5.png" alt="" /></a></p>
+                                    </td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="400"><a href="#Home"><img width="30" vspace="0" hspace="0" height="29" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/BackArrow2.png" alt="" /></a></td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                            <tbody>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: left;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="287" style="text-align: left;" colspan="3"><span style="color: rgb(128, 128, 128);"><span style="font-size: 15px;"><span style="font-family: Arial;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Culture/es-US/?LangType=21514" target="_blank"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><span style="color: rgb(128, 128, 128);"><span style="font-size: 15px;"><span style="font-family: Arial;">Cultura de Seguridad</span></span></span></span></span></a></span></span></span></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: right;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" valign="top" bgcolor="f5f5f5" rowspan="5" style="text-align: left;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Culture/es-US/Ed%C3%BAquelos-para-la-seguridad/" target="_blank"><span style="font-size: 8px;"><span style="color: rgb(128, 128, 128);">&nbsp; &nbsp; </span></span><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"><br />
+                                    &nbsp; Educaci&oacute;n<br />
+                                    &nbsp;</span></span></a></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Culture/es-US/An%C3%A1lisis-para-la-seguridad/" target="_blank"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"> An&aacute;lisis</span></span></a></span></span></span></span></span></span><br />
+                                    &nbsp;<span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Culture/es-US/Gu%C3%ADelos-hacia-la-seguridad/" target="_blank"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);"> Liderazgo</span></span></a><br />
+                                    &nbsp; </span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Culture/es-US/Equ%C3%ADpelos-para-la-seguridad/" target="_blank"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);">Equipo</span></span></a><br />
+                                    &nbsp; </span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><a style="text-decoration:none" href="http://www.honeywellsafety.com/Culture/es-US/Recursos-de-cultura-de-seguridad/" target="_blank"><span style="font-size: 12px;"><span style="color: rgb(128, 128, 128);">Recursos<br />
+                                    <span style="font-size: 8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="color: rgb(51, 51, 153);"><span style="font-size: 11px;"><span style="font-family: Arial;"><strong><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">Descarg</span></em></span></span><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">a de Cat&aacute;logo</span></em></span></span></strong></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="color: rgb(51, 51, 153);"><span style="font-size: 11px;"><span style="font-family: Arial;"><strong><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">Acceso a Website</span></em></span></span></strong></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" valign="top" align="center" rowspan="7">
+                                    <p style="text-align: center;"><a target="_blank" href="http://newsletter.sperian.internetdinamica.com/uploadimages/image/HSPCorpBrochureRLA/HSPCorpBrochureRLA.pdf"><img width="100" vspace="0" hspace="0" height="133" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/TapaBrochureCorp2.png" alt="Cultura de Seguridad - Descarga de Folleto" /></a></p>
+                                    </td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" valign="top" align="center" rowspan="5"><a href="http://www.honeywellsafety.com/Culture/es-US/?LangType=21514" target="_blank"><img width="140" vspace="0" hspace="0" height="92" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/WebsiteCultura%20190%20RLA%20MEX.png" alt="" /></a></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" valign="top" align="center">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td width="400">
+                                    <p><a name="Arrow_First_Responder"><img width="20" vspace="0" hspace="0" height="20" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/Barra%20Gris%20F5F5F5.png" alt="" /></a></p>
+                                    </td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="400"><a href="#Home"><img width="30" vspace="0" hspace="0" height="29" border="0" align="left" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/New%20HSP%20Template%20-%20March%202013/BackArrow2.png" alt="" /></a></td>
+                                    <td width="400" style="text-align: right;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="border: 1px solid rgb(221, 221, 221);">
+                            <tbody>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: left;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="307" colspan="3" style="text-align: left;"><span style="color: rgb(51, 51, 51);"><span style="font-size: 15px;"><span style="font-family: Arial;">First Responder Products</span></span></span><span style="color: rgb(128, 128, 128);"><span style="font-size: 15px;"><span style="font-family: Arial;"><br />
+                                    </span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: right;"><span style="font-size: 11px;"><span style="font-family: Arial;"><em><span style="color: rgb(128, 128, 128);">&nbsp;&nbsp; <br />
+                                    </span></em></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">
+                                    <p style="text-align: center;"><a href="http://us2.campaign-archive2.com/?u=3c8980c689d43f532eabd0fbd&amp;id=241d8c5fdc&amp;e=" target="_blank"><img width="100" vspace="0" hspace="0" height="161" border="0" align="top" src="http://newsletter.sperian.internetdinamica.com/uploadimages/image/Patrones%20HSP/HFRP-Link2.jpg" alt="" /></a></p>
+                                    </td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(128, 128, 128);"><strong><span style="color: rgb(128, 128, 128);"><br />
+                                    </span></strong></span></span></span></span></span></span></td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150">&nbsp;</td>
+                                    <td width="11">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td width="31">&nbsp;</td>
+                                    <td width="130" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="7">&nbsp;</td>
+                                    <td width="150" style="text-align: center;">&nbsp;</td>
+                                    <td width="11" style="text-align: center;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="800" height="17" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                    <p>&nbsp;</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p style="text-align: left;">&nbsp;</p>
+                        </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>

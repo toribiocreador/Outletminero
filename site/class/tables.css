@@ -1,0 +1,85 @@
+@charset "iso-8859-2";
+.tbTC {
+	background-image: url(../imgs/back_TC.gif);
+	background-repeat: repeat;
+	border: 1px solid #E8E8E8;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #333;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+.tbTC2 {
+	border: 1px solid #E8E8E8;
+	padding: 10px;
+	background-color: #FFF;
+}
+.tbTitNot {
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #F5F5F5;
+}
+
+.tbShow {
+	background-color: #E5E5E5;
+}
+
+.tbFind {
+	background-color: #F2F2F2;
+}
+
+.tbInputQ {
+	background-color: #FFF;
+	padding: 3px;
+	border: 1px solid #F0F0F0;
+}
+.tbImgs {
+	background-color: #FFF;
+	border: 1px solid #E4E4E4;
+	padding: 5px;
+}
+.tbComments {
+	background-color: #FFF;
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+}
+.tbBackWhite {
+	background-color: #F7F7F7;
+}
+.divContenedor2{
+	padding:2px;
+	border:1px solid #999999;
+	margin:0px 0px 0 0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid #999999;
+	background:#FFFFFF;
+	cursor:pointer;
+}
+.divContenedor3{
+	padding:0px;
+	border:1px solid #999999;
+	margin:0px 0px 0 0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid #999999;
+	background:#FFFFFF;
+	cursor:pointer;
+}
+
+#logoShow{
+	background:url("../imgs/logo_org.png") 0 0 no-repeat;
+	width: 417px;
+	height: 108px;
+	position:relative;
+	left: 15px;
+	top: -150px;
+}

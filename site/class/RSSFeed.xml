@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>  
+	<atom:link href="http://outletminero.org/class/RSSFeed.xml" rel="self" type="application/rss+xml" />
+    <title>Noticias de Outletminero</title>  
+    <link>http://www.outletminero.org</link>  
+    <description>Las mejores noticias de Internet</description>  
+  
+<?php  
+   	$user = 'outminer_user';
+	$pswd = 'EuQhSRw{zF@J';
+	$localhost = 'localhost';
+	$bd = 'outminer_db';
+	$con = mysql_connect($localhost,$user,$pswd) or die('Could not connect: ' . mysql_error());
+	$db = mysql_select_db($bd, $con);
+  
+   	$result = mysql_query("SELECT * FROM noticias WHERE socio='0' AND activo=1 ORDER BY id DESC");
+  
+    
+	$row = mysql_fetch_array($result, MYSQL_ASSOC)or die ('Error al ejecutar la consulta');  
+  
+    while ($row = mysql_fetch_array($result, MYSQL_ASSOC)){	 
+        echo '<item> 
+                  <title>'.$row["titulo"].'</title> 
+                  <guid>http://outletminero.org?F=noticias&amp;_f=ver&amp;id='. $row["id"] .'</guid> 
+                  <description>'.$row["contenido"].'</description> 
+             </item>';  
+    }  
+?>    
+</channel>  
+</rss>
