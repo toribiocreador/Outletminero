@@ -1,0 +1,47 @@
+@charset "iso-8859-2";
+.frmInputQ {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #333;
+	background-color: #FFF;
+	border: 1px solid #CCC;
+}
+.frmInputM {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #333;
+	background-color: #FFF;
+	border: 1px solid #999;
+	padding: 2px;
+}
+.frmButtonQ {
+	background-image: url(../imgs/icon_search.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	height: 27px;
+	width: 27px;
+	font-size: 1px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+.frmButtonM {
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 2px;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-weight: normal;
+	text-decoration: none;
+	background-color: #000;
+	border: 1px solid #999;
+}

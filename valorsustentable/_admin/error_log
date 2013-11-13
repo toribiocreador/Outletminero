@@ -1,0 +1,137 @@
+[06-May-2011 14:56:53] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/outminer/public_html/_admin/class/proveedores.php on line 328
+[07-May-2011 13:47:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/outminer/public_html/_admin/class/banners.php on line 115
+[07-May-2011 13:47:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/outminer/public_html/_admin/class/banners.php on line 115
+[23-May-2011 12:20:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/outminer/public_html/_admin/class/banners.php on line 115
+[02-Jun-2011 13:05:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/outminer/public_html/_admin/class/banners.php on line 115
+[03-Jun-2011 14:36:20] PHP Fatal error:  Call to undefined method noticias::addNoticia() in /home/outminer/public_html/_admin/index.php on line 17
+[03-Jun-2011 14:37:00] PHP Fatal error:  Call to undefined method noticias::addNoticia() in /home/outminer/public_html/_admin/index.php on line 17
+[03-Jun-2011 14:37:08] PHP Fatal error:  Call to undefined method noticias::addMod() in /home/outminer/public_html/_admin/index.php on line 17
+[11-Jun-2011 21:39:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/outminer/public_html/_admin/class/banners.php on line 115
+[15-Jun-2011 10:18:03] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 212
+[15-Jun-2011 10:18:03] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/tmp/phpWlnUAf' is not a valid JPEG file in /home/outminer/public_html/_admin/class/global.php on line 212
+[15-Jun-2011 10:18:03] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/outminer/public_html/_admin/class/global.php on line 245
+[15-Jun-2011 10:18:03] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/outminer/public_html/_admin/class/global.php on line 248
+[15-Jun-2011 10:20:22] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 212
+[15-Jun-2011 10:20:22] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/tmp/phpJBIJwH' is not a valid JPEG file in /home/outminer/public_html/_admin/class/global.php on line 212
+[15-Jun-2011 10:20:22] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/outminer/public_html/_admin/class/global.php on line 245
+[15-Jun-2011 10:20:22] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/outminer/public_html/_admin/class/global.php on line 248
+[26-Jun-2011 16:45:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/outminer/public_html/_admin/class/banners.php on line 115
+[09-Jul-2011 13:50:19] PHP Fatal error:  Call to undefined method usuarios::addMod8() in /home/outminer/public_html/_admin/index.php on line 17
+[09-Jul-2011 13:50:29] PHP Fatal error:  Call to undefined method usuarios::addMod8() in /home/outminer/public_html/_admin/index.php on line 17
+[09-Jul-2011 13:51:32] PHP Fatal error:  Call to undefined method usuarios::addMod8() in /home/outminer/public_html/_admin/index.php on line 17
+[09-Jul-2011 13:52:16] PHP Fatal error:  Call to undefined method usuarios::addMod8() in /home/outminer/public_html/_admin/index.php on line 17
+[11-Jul-2011 12:57:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/outminer/public_html/_admin/class/banners.php on line 115
+[20-Jul-2011 10:42:13] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phpHYEZBV' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 252
+[20-Jul-2011 10:42:13] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[20-Jul-2011 10:42:13] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[20-Jul-2011 10:42:50] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phpRtx2kJ' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 252
+[20-Jul-2011 10:42:50] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[20-Jul-2011 10:42:50] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[20-Jul-2011 10:43:35] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phplG8nPl' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 252
+[20-Jul-2011 10:43:35] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[20-Jul-2011 10:43:35] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[29-Jul-2011 12:18:49] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: '/tmp/php5XUmVI' is not a valid GIF file in /home/outminer/public_html/_admin/class/global.php on line 255
+[29-Jul-2011 12:18:49] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[29-Jul-2011 12:18:49] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[08-Aug-2011 10:20:37] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[08-Aug-2011 10:20:41] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[30-Aug-2011 17:00:21] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/usuarios.php on line 15
+[02-Sep-2011 09:52:19] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: '/tmp/php00i1Yn' is not a valid GIF file in /home/outminer/public_html/_admin/class/global.php on line 255
+[02-Sep-2011 09:52:19] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[02-Sep-2011 09:52:19] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[02-Sep-2011 09:54:09] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phpAz04Hz' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 252
+[02-Sep-2011 09:54:09] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[02-Sep-2011 09:54:09] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[04-Sep-2011 19:53:44] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24824 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[07-Sep-2011 11:52:19] PHP Fatal error:  Call to undefined method noticias::validar_1_imagen_marcaAgua() in /home/outminer/public_html/_admin/class/noticias.php on line 177
+[07-Sep-2011 11:54:17] PHP Fatal error:  Call to undefined method noticias::validar_1_imagen_marcaAgua() in /home/outminer/public_html/_admin/class/noticias.php on line 177
+[14-Sep-2011 13:36:07] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24824 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[23-Sep-2011 10:46:54] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: '/tmp/phpuBvevS' is not a valid GIF file in /home/outminer/public_html/_admin/class/global.php on line 255
+[23-Sep-2011 10:46:54] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[23-Sep-2011 10:46:54] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[27-Sep-2011 13:21:55] PHP Warning:  POST Content-Length of 21903615 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Sep-2011 13:27:57] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17280 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[29-Sep-2011 11:08:13] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18432 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[29-Sep-2011 11:37:26] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18432 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[05-Oct-2011 09:52:35] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 09:53:29] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 09:54:03] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 09:55:15] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 10:04:33] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 10:04:57] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 10:05:11] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 10:56:44] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[05-Oct-2011 10:57:44] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 284
+[27-Oct-2011 09:32:49] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[28-Oct-2011 11:05:10] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17280 bytes) in /home/outminer/public_html/_admin/class/global.php on line 322
+[28-Oct-2011 11:29:33] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17280 bytes) in /home/outminer/public_html/_admin/class/global.php on line 322
+[30-Oct-2011 13:01:07] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phpNsQkQj' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 252
+[30-Oct-2011 13:01:07] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[30-Oct-2011 13:01:07] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[04-Nov-2011 10:50:48] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phpiWBoTO' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 252
+[04-Nov-2011 10:50:48] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 282
+[04-Nov-2011 10:50:48] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 285
+[09-Nov-2011 12:11:12] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[09-Nov-2011 12:11:15] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[10-Nov-2011 12:35:27] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17280 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[12-Nov-2011 14:44:47] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24824 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[28-Nov-2011 14:53:30] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24824 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[16-Dec-2011 15:19:44] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17280 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[16-Dec-2011 15:21:18] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17280 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[16-Dec-2011 15:24:23] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17280 bytes) in /home/outminer/public_html/_admin/class/global.php on line 249
+[01-Jan-2012 23:48:01] PHP Fatal error:  Call to undefined method contactos::addModContactos() in /home/outminer/public_html/_admin/index.php on line 17
+[01-Jan-2012 23:49:39] PHP Fatal error:  Call to undefined method contactos::addModContactos() in /home/outminer/public_html/_admin/index.php on line 17
+[01-Jan-2012 23:50:36] PHP Fatal error:  Call to undefined method contactos::addModContactos() in /home/outminer/public_html/_admin/index.php on line 17
+[03-Jan-2012 10:15:43] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/calendario.php on line 9
+[03-Jan-2012 10:57:35] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phpLJdB4a' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 256
+[03-Jan-2012 10:57:35] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 286
+[03-Jan-2012 10:57:35] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 289
+[12-Feb-2012 18:23:57] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[12-Feb-2012 18:24:43] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[22-Feb-2012 11:40:53] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/calendario.php on line 9
+[06-May-2012 18:15:54] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[06-May-2012 18:16:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[06-May-2012 18:16:39] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/banners.php on line 115
+[10-May-2012 12:10:04] PHP Fatal error:  Call to undefined method entrevistas::seeLecturas() in /home/outminer/public_html/_admin/index.php on line 17
+[10-May-2012 12:10:05] PHP Fatal error:  Call to undefined method entrevistas::seeLecturas() in /home/outminer/public_html/_admin/index.php on line 17
+[20-May-2012 09:42:50] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: '/tmp/phplQuaAp' is not a valid PNG file in /home/outminer/public_html/_admin/class/global.php on line 256
+[20-May-2012 09:42:50] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 286
+[20-May-2012 09:42:50] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 289
+[19-Jun-2012 09:56:16] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 253
+[19-Jun-2012 09:56:16] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/tmp/php9NpLzD' is not a valid JPEG file in /home/outminer/public_html/_admin/class/global.php on line 253
+[19-Jun-2012 09:56:16] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 286
+[19-Jun-2012 09:56:16] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 289
+[19-Jun-2012 09:56:39] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 253
+[19-Jun-2012 09:56:39] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/tmp/phpM3VoT5' is not a valid JPEG file in /home/outminer/public_html/_admin/class/global.php on line 253
+[19-Jun-2012 09:56:39] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 286
+[19-Jun-2012 09:56:39] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 289
+[19-Jun-2012 09:57:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/outminer/public_html/_admin/class/global.php on line 253
+[19-Jun-2012 09:57:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/tmp/phpl7w1Ib' is not a valid JPEG file in /home/outminer/public_html/_admin/class/global.php on line 253
+[19-Jun-2012 09:57:46] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 286
+[19-Jun-2012 09:57:46] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/global.php on line 289
+[29-Jun-2012 10:38:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/noticias.php on line 73
+[29-Jun-2012 10:39:26] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/noticias.php on line 73
+[02-Jul-2012 16:17:17] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20736 bytes) in /home/outminer/public_html/_admin/class/global.php on line 268
+[02-Jul-2012 16:20:29] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20736 bytes) in /home/outminer/public_html/_admin/class/global.php on line 268
+[03-Jul-2012 09:46:23] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20736 bytes) in /home/outminer/public_html/_admin/class/global.php on line 268
+[05-Jul-2012 00:05:57] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66322414 bytes) in /home/outminer/public_html/_admin/class/global.php on line 492
+[05-Jul-2012 00:06:05] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66322414 bytes) in /home/outminer/public_html/_admin/class/global.php on line 492
+[05-Jul-2012 00:07:42] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/outminer/public_html/_admin/class/global.php on line 474
+[05-Jul-2012 00:37:27] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/outminer/public_html/_admin/class/global.php on line 538
+[05-Jul-2012 00:37:29] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/outminer/public_html/_admin/class/global.php on line 538
+[05-Jul-2012 00:37:54] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/outminer/public_html/_admin/class/global.php on line 539
+[05-Jul-2012 00:37:55] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/outminer/public_html/_admin/class/global.php on line 539
+[05-Jul-2012 00:37:56] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/outminer/public_html/_admin/class/global.php on line 539
+[05-Jul-2012 13:24:35] PHP Fatal error:  Call to undefined method noticias::addNoticia2() in /home/outminer/public_html/_admin/index.php on line 17
+[16-Jul-2012 10:07:48] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/historias.php on line 215
+[16-Jul-2012 10:20:41] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/outminer/public_html/_admin/class/reportajes.php on line 215
+[16-Jul-2012 11:16:15] PHP Fatal error:  Cannot redeclare _MENU_::menuVideos() in /home/outminer/public_html/_admin/class/menus.php on line 254
+[16-Jul-2012 11:16:41] PHP Fatal error:  Cannot redeclare _MENU_::menuVideos() in /home/outminer/public_html/_admin/class/menus.php on line 254
+[16-Jul-2012 11:16:45] PHP Fatal error:  Cannot redeclare _MENU_::menuVideos() in /home/outminer/public_html/_admin/class/menus.php on line 254
+[16-Jul-2012 11:17:04] PHP Fatal error:  Cannot redeclare _MENU_::menuVideos() in /home/outminer/public_html/_admin/class/menus.php on line 254
+[27-Jul-2012 12:54:40] PHP Warning:  POST Content-Length of 17763969 bytes exceeds the limit of 16777216 bytes in Unknown on line 0
+[27-Jul-2012 13:09:21] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 15724 bytes) in /home/outminer/public_html/_admin/class/global.php on line 268
+[23-Aug-2012 12:38:47] PHP Warning:  POST Content-Length of 18268253 bytes exceeds the limit of 16777216 bytes in Unknown on line 0
+[23-Aug-2012 12:40:01] PHP Warning:  POST Content-Length of 18268253 bytes exceeds the limit of 16777216 bytes in Unknown on line 0
+[23-Aug-2012 12:45:34] PHP Warning:  POST Content-Length of 18268253 bytes exceeds the limit of 16777216 bytes in Unknown on line 0
+[23-Aug-2012 12:49:41] PHP Warning:  POST Content-Length of 18577806 bytes exceeds the limit of 16777216 bytes in Unknown on line 0

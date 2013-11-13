@@ -1,0 +1,353 @@
+/* SolidCell site Global CSS rules */
+body {
+	background-image:url(bg.png);
+	background-color:#CCC;
+	background-repeat:repeat-x;
+	margin:0;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+div#wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:930px;
+}
+a {
+	text-decoration: none;
+	color: #666;
+}
+
+/* Header and menu */
+div#header {
+	height:100px;
+	background-image: url(images/header.jpg);
+}
+div#header h1 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#E9EDF6;
+	padding:0;
+	margin:0;
+	font-size:37px;
+	padding-top:57px;
+	letter-spacing:4px;
+	text-align: left;
+}
+div#menu {
+	height:30px;
+	background-repeat: repeat-x;
+	background-image: url(images/menu-bg.jpg);
+}
+div#menu ul {
+	list-style-type:#F00;
+	margin:0;
+	padding:0;
+}
+div#menu ul li {
+	display:inline;
+}
+div#menu ul li a {
+	display:block;
+	width:155px;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	color:#004688;
+	font-weight:bold;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding-top: 7px;
+	padding-right: 0;
+	padding-bottom: 7px;
+	padding-left: 0;
+}
+div#menu ul li a:hover {
+	background-image: url(images/menu-bg_hover.jpg);
+	color: #BA951B;
+}
+
+/* Top image */
+div#top-area {
+	background-color:#FFF;
+	margin:0;
+	background-image:url(images/header_new.jpg); /* link to image */
+	background-repeat:no-repeat;
+	background-position:2px 2px;
+	height:243px;
+	text-align:center;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+}
+
+/* SolicCell site main content */
+div#content {
+	background-color:#FFF;
+	background-image: url(images/background_slideshow.jpg);
+	background-repeat: repeat-x;
+}
+div#main {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding-top:5px;
+	background-image: url(images/background_slideshow.jpg);
+	background-position: center top;
+	background-repeat: repeat-x;
+	background-color: #FFF;
+}
+#overlay   {
+	position: absolute;
+	height: 268px;
+	width: 930px;
+	background-image: url(images/marco.png);
+	top: 140px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	display: block;
+	z-index: 10000;
+}
+.first_letter {
+	font-size: 36px;
+	font-weight: bold;
+	color: #00336F;
+	line-height: normal;
+	white-space: normal;
+}
+
+div#main h1 {
+	text-align:left;
+	font-size:2em;
+	color:#00407D;
+	border-bottom:1px solid #CCC;
+	font-weight:normal;
+	margin-top: 50px;
+	margin-right: 0;
+	margin-bottom: -30px;
+	margin-left: 29px;
+	width: 850px;
+	padding-bottom: 10px;
+}
+div#main p {
+	font-size:13px;
+	color:#333;
+	text-align: justify;
+	margin-top: 9px;
+	margin-right: 0;
+	margin-bottom: 8px;
+	margin-left: 9px;
+	padding-top: 0;
+	padding-bottom: 5px;
+	padding-right: 25px;
+	padding-left: 20px;
+	line-height: 30px;
+}
+div#main a {
+	color:#DDC359;
+	font-weight:bold;
+	text-decoration:none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+div#main a:hover {
+	color:#C1A021;
+	text-decoration:underline;
+}
+div#main ul {
+	list-style-type:square;
+	margin:5px 0 5px 20px;
+	padding:5px 0 5px 20px;
+}
+div#main li {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+.clr {
+	clear:both;
+}
+
+/* Footer */
+div#footer {
+	text-align: left;
+	padding-right: 0px;
+	padding-left: 0px;
+	height: 60px;
+	background-image: url(images/fondo_footer.jpg);
+	background-repeat: repeat-x;
+}
+div#footer p {
+	text-align:right;
+	color:#20487A;
+	font-size:1.5em;
+	padding-top: 25px;
+	padding-right: 20px;
+	padding-bottom: 0;
+	padding-left: 0;
+	margin: 0px;
+}
+div#footer a {
+	color:#FFF;
+}
+div#menu ul li .current a {
+	color: #003874;
+	background-repeat: repeat-x;
+	background-color: #F3BE35;
+	height: 21px;
+}
+#wrapper #content #main .Splash_element_1 {
+	margin-left: 9px;
+	margin-right: 0px;
+	line-height: 25px;
+	width: 600px;
+	padding-top: 20px;
+}
+#wrapper #content #main .Splash_element_1 p img {
+	padding-right: 13px;
+	padding-top: 15px;
+	padding-left: 13px;
+}
+#main .Splash_element_1 {
+	width: 600px;
+}
+#main .splash_derecha {
+	float: right;
+	width: 200px;
+}
+#wrapper #content #main #derecha_contenido {
+	float: right;
+	width: 230px;
+	padding-right: 30px;
+	padding-top: 40px;
+}
+#wrapper #content #main .Splash_element_1 p .fecha {
+	color: #D9CC9C;
+	font-style: italic;
+}
+
+#wrapper #content .space {
+	height: 10px;
+	background-color: #f3be35;
+}
+#wrapper #content #main #pre-footer {
+}
+#wrapper #content #main #pre-footer .pre-footer_element {
+	width: 310px;
+	float: left;
+	height: 380px;
+	background-image: url(images/fondo_pre-footer.jpg);
+	background-repeat: repeat-x;
+	line-height: normal;
+}
+#wrapper #content #main #pre-footer .pre-footer_element img {
+	padding-left: 70px;
+	padding-top: 80px;
+	padding-right: 70px;
+}
+#wrapper #content #main #pre-footer .pre-footer_element h1 {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: #FBC41E;
+	text-align: center;
+	width: 295px;
+	border-left-color: #FFB816;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin-left: 0px;
+	font-size: 18px;
+	font-weight: normal;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+}
+#wrapper #content #main #pre-footer .pre-footer_element p {
+	color: #DDD;
+	line-height: 20px;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 30px;
+	text-align: center;
+}
+#wrapper #content #main .foto_derecha  {
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	margin-left: 15px;
+	float: right;
+	text-align: center;
+}
+#wrapper #content #main .foto_izquierda {
+	float: left;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	margin-right: 15px;
+	text-align: center;
+}
+#wrapper #content #main .foto_izquierda .descripcion {
+	color: #999;
+	font-style: italic;
+	padding-top: 8px;
+}
+#wrapper #content #main .foto_derecha .descripcion {
+	color: #999;
+	font-style: italic;
+	padding-top: 8px;
+}
+#wrapper #content #main .contenedor_albmes {
+	width: 900px;
+	padding-left: 15px;
+}
+#wrapper #content #main .contenedor_albmes .album {
+	height: 270px;
+	width: 280px;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#wrapper #content #main .contenedor_albmes .album img {
+	padding-left: 23px;
+	border: none;
+}
+#wrapper #content #main .contenedor_albmes .album p {
+	margin: 0px;
+	text-align: center;
+	font-weight: bold;
+	color: #333;
+	font-size: 1.2em;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#wrapper #content #main .contenedor_albmes .album .fecha {
+	color: #A18122;
+	font-weight: lighter;
+	text-align: center;
+}
+#wrapper #content #main .contenedor_albmes .album .top {
+	height: 20px;
+	background-image: url(images/top_album.jpg);
+}
+#wrapper #content #main .contenedor_albmes .album .bottom {
+	height: 20px;
+	background-image: url(images/bottom_album.jpg);
+}
+#wrapper #content #main .contenedor_albmes .album .album_content {
+	height: 230px;
+	background-image: url(images/body_albumes.jpg);
+	background-repeat: repeat-y;
+}
+#wrapper #content #main #pre-footer .pre-footer_element a img {
+	color: transparent;
+	border: none;
+}

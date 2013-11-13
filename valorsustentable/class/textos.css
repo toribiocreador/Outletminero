@@ -1,0 +1,103 @@
+@charset "iso-8859-2";
+.txtPP {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: normal;
+	color: #666;
+	text-decoration: none;
+}
+.txtPPBold {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+}
+.txtBold1 {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+}
+.txtEsp {
+	font-family: Arial;
+	font-size: 6px;
+}
+.txtCont {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666;
+	text-decoration: none;
+	text-align: justify;
+}
+.txtBold {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	text-align: justify;
+}
+.txtTit {
+	font-family: Times "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+	color: #000;
+	text-decoration: none;
+}
+.txtTitPro {
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+}
+.txtPPMail {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 18px;
+}
+.txtPPSmallMail {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 12px;
+}
+.txtPPMediumMail {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 14px;
+}
+.txtPP2Mail {
+	font-family: Georgia, "Times New Roman", Times, serif
+	color: #FFF;
+	font-size: 18px;
+	color: #FFF;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.txtPPSmall2Mail {
+	font-family: Georgia, "Times New Roman", Times, serif
+	color: #FFF;
+	font-size: 12px;
+}
+.txtPPMedium2Mail {
+	font-family: Georgia, "Times New Roman", Times, serif
+	color: #FFF;
+	font-size: 16px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+	font-weight: bold;
+}
+.txtTitMail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 76px;
+	color: #FFF;
+	font-weight:bold;
+}
+.txtTitSmallMail {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 44px;
+	font-weight:bold;
+}

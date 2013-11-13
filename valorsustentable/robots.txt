@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /class/quienessomos.php
+Allow: /class/editoriales.php
+Allow: /class/noticias.php
+Allow: /class/entrevistas.php
+Allow: /class/proveedores.php
+Allow: /class/bolsatrabajo.php
+Allow: /class/contacto.php
+Disallow: /_admin/
+
+

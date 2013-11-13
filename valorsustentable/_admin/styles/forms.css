@@ -1,0 +1,26 @@
+.frmInput {
+	font-family: Arial;
+	font-size: 12px;
+	color: #900;
+	text-decoration: none;
+	border: 1px solid #063;
+	background-color: #E1FFE1;
+	padding: 4px;
+}
+.frmBtnIngresar {
+	font-family: Arial;
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+	background-image: url(../imgs/btn_back.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	height: 34px;
+	width: 147px;
+	background-color: #FFF;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-weight: bold;
+}
